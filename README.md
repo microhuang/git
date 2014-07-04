@@ -36,3 +36,6 @@ hostnossl
 
 
 sudo -u gitlab-psql psql -d gitlabhq_production -p 5432
+
+
+/var/opt/gitlab/git-data/gitlab-satellites/<user|group>/<repos>
